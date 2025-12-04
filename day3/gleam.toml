@@ -1,0 +1,7 @@
+name = "day3"
+version = "1.0.0"
+
+[dependencies]
+gleam_stdlib = ">= 0.67.1 and < 1.0.0"
+file_streams = ">= 1.7.0 and < 2.0.0"
+iterators = ">= 1.0.0 and < 2.0.0"
